@@ -142,5 +142,4 @@ dmypy.json
 .DS_Store
 
 # Folders
-/data/
 /notebooks/
