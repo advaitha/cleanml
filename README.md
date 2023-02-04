@@ -9,7 +9,7 @@ $ pip install cleanml
 ```
 
 ## Usage
-`cleanml' can be used to clean and prepare data.
+`cleanml` can be used to clean and prepare data.
 
 ```python
 from cleanml.cleanml import make_column_names
