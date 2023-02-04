@@ -1,6 +1,6 @@
 # cleanml
 
-A package for cleaning and preparing data for ML models
+A python package for cleaning and preparing data for ML models
 
 ## Installation
 
