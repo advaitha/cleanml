@@ -62,6 +62,8 @@ def remove_spl_chars_in_columns(df, spl_chars_excepted=['_']):
     for column in df_columns:
         for char in invalid_characters:
             column = column.replace(char, '')
+        if column.endswith('_'):
+            column = column[:-1]
         new_columns.append(column)
     df.columns = new_columns
     return df  
