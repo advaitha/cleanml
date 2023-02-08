@@ -1,4 +1,4 @@
-# ci-cd file
+# ci-cd file for the cleanml project
 name: ci-cd
 
 on: [push, pull_request]
