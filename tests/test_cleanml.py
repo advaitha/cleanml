@@ -1,4 +1,4 @@
-from cleanml.cleanml import make_column_names, remove_spl_chars_in_columns
+from cleanml import make_column_names, remove_spl_chars_in_columns
 import pandas as pd
 
 def test_make_column_names():
