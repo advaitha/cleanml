@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2023-02-08)
+### Fix
+* Fixed bug in ci cd ([`97a64ba`](https://github.com/advaitha/cleanml/commit/97a64babe862cf6cf8773fab84bc179159be388e))
+
 ## v0.1.1 (2023-02-08)
 ### Fix
 * Import using init file ([`a9e38ff`](https://github.com/advaitha/cleanml/commit/a9e38ff7d643c581901c3957cf818f6a630e1ed1))
